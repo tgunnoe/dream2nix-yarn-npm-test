@@ -1,0 +1,9 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "typescript-json": "npm:typescript@4.7.2"
+  }
+}
