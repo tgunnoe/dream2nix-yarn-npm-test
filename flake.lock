@@ -51,17 +51,14 @@
         "pre-commit-hooks": "pre-commit-hooks"
       },
       "locked": {
-        "lastModified": 1653135531,
-        "narHash": "sha256-pYwJrEQrG8BgeVcI+lveK3KbOBDx9MT28HxV09v+jgI=",
-        "owner": "nix-community",
-        "repo": "dream2nix",
-        "rev": "4b3dfb101fd2fdbe25bd128072f138276aa4bc82",
-        "type": "github"
+        "lastModified": 1653671632,
+        "narHash": "sha256-9gAM1Bvy9wAiduStPtsjegbsuUmvPElPk/oddWoPmxI=",
+        "path": "/home/tgunnoe/src/boba/dream2nix",
+        "type": "path"
       },
       "original": {
-        "owner": "nix-community",
-        "repo": "dream2nix",
-        "type": "github"
+        "path": "/home/tgunnoe/src/boba/dream2nix",
+        "type": "path"
       }
     },
     "flake-utils-pre-commit": {
